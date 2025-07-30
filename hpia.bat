@@ -1,0 +1,2 @@
+ECHO off
+HPImageAssistant.exe /Operation:Analyze /Action:Install /ProxyURL:proxyle03.ext.ti.com /ProxyPort:80 /Category:Drivers,BIOS,Software,Firmware /Silent /noninteractive /debug /ReportFolder:C:\SWSetup\HPIA_Reports\  /SoftpaqDownloadFolder:C:\SWSetup /LogFolder:C:\temp\HPIA_Reports
